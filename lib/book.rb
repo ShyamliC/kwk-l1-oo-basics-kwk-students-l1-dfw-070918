@@ -1,9 +1,6 @@
 # book.rb
 # Add you Book class here
-class Book(title)
-  @title=title
-  def title
-    @title
+class Book
+  def intialize(title)
   end
-  
 end
